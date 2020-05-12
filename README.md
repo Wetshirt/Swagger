@@ -1,6 +1,6 @@
 # Swagger
 
-一個簡單的swagger範例
+簡單的swagger範例
 
 ## 1. maven
 
